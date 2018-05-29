@@ -1,0 +1,1 @@
+gnuplot visualize.gp -p
