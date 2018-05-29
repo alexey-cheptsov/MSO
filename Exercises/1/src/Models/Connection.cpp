@@ -5,13 +5,20 @@ using namespace std;
 
 
 Connection::Connection(string id_, float K_) {
-	id = id_;
-	K = K_;
-	
-	cout << "Created Connection: " << id << "; K=" << K << endl;
+
+        /*
+         * TO FILL
+         */
+
+        cout << "Created Connection: " << id << "; K=" << K << endl;
 }
 
 
 float Connection::getK() {
-	return K;
+
+        /*
+         * TO FILL
+         */
+
+
 }

@@ -12,15 +12,14 @@ class Solvers {
 
 public:
 
-	float h; // numeric integration step in secs.
+        float h; // numeric integration step in secs.
 
-	Solvers(float h_) :
-			h(h_) {
-	}
+        Solvers(float h_) :
+                h(h_) {
+        }
 
-	virtual float solve(float const lvalue, float const rvalue) {
-	}
-	;
+        virtual float solve(float const lvalue, float const rvalue) {
+        };
 
 };
 

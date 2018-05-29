@@ -6,16 +6,19 @@
 class Euler: public Solvers {
 public:
 
-	Euler(float h_) :
-			Solvers(h_) {
-	}
+        Euler(float h_) :
+                Solvers(h_) {
+        }
 
-	float solve(float const lvalue, float const rvalue) {
+        float solve(float const lvalue, float const rvalue) {
 
-		float lvalue_next = 0;
-		return lvalue_next;
+                /* 
+                 * TO FILL
+                 */
 
-	}
+                float lvalue_next = 0;
+                return lvalue_next;
+        }
 
 };
 
