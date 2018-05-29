@@ -3,7 +3,6 @@ using namespace std;
 #include "Models/Element.h"
 #include "Models/Connection.h"
 #include "Numerics/Euler.h"
-#include "Auxiliary/auxiliary.h"
 #include <iostream>
 #include <iomanip>
 #include <fstream>
